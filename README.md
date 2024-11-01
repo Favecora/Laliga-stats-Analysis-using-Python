@@ -9,8 +9,8 @@ The primary goal of this project is to analyze team performance trends across mu
 
 ## Repository Contents
 
-- **`laliga_analysis.ipynb`**: A Jupyter Notebook containing Python code for loading, cleaning, merging, and analyzing La Liga data across seasons.
-- **`web_scraping_script.py`**: Python code used to scrape data from the source website to gather seasonal standings data.
+- **`Laliga_Stats_Eda.ipynb`**: A Jupyter Notebook containing Python code for loading, cleaning, merging, and analyzing La Liga data across seasons.
+- **`Web_scraping2.ipynb`**: Python code used to scrape data from the source website to gather seasonal standings data.
 
 
 ## Data Analysis Process
