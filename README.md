@@ -38,8 +38,8 @@ pip install pandas numpy requests beautifulsoup4 matplotlib seaborn
 
 ### Usage
 
-1. Run `WebScraping2.ipynb` to scrape the data.
-2. Use `Laliga_stats_Eda.ipynb` to load, clean, and analyze the data.
+1. Run `Web_Scraping2.ipynb` to scrape the data.
+2. Use `Laliga_Stats_Eda.ipynb` to load, clean, and analyze the data.
 
 
 
